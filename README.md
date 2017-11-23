@@ -1,4 +1,4 @@
-
+[REVIEW RESULT](https://review.udacity.com/#!/reviews/559829)
 # Build a Game-playing Agent
 
 ![Example game of isolation](viz.gif)
